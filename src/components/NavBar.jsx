@@ -13,7 +13,7 @@ const NavBar = () => {
                     </ul>
                 </div>
                 <div className="nav-right">
-                    <button className="w-[130px] py-2 px-5 rounded-full transition duration-250 ease-in-out hover:bg-gray-100 hover:font-semibold shadow-lg">Let's Talk!</button>
+                    <button className="w-[130px] py-2 px-5 rounded-full bg-white font-normal transition duration-250 ease-in-out hover:bg-gray-100 hover:font-semibold shadow-lg">Let's Talk!</button>
                 </div>
             </div>
         </div>
