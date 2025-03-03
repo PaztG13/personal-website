@@ -1,6 +1,6 @@
 const Header = () => {
     return (
-        <div className="w-[75%] p-10 m-auto mt-20 flex items-center gap-10">
+        <div className="max-w-[1280px] m-auto my-45 flex items-center gap-10">
             <div className="header-left">
                 <h2 className="text-2xl mb-2.5">Nice to meet you!</h2>
                 <h1 className="text-9xl">I'm <strong>Dava Agestha Putra</strong> and I do <strong>Motion Graphics</strong></h1>
