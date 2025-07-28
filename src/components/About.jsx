@@ -15,7 +15,7 @@ const About = () => {
                         </div>
                     </div>
                     <div className="about-right">
-                        <div className="img-container size-100 bg-[url(/photo.jpg)] transition duration-150 ease-in-out hover:opacity-70 bg-cover bg-center rounded-2xl shadow-lg">
+                        <div className="img-container size-100 bg-[url(/Foto-Profil.png)] transition duration-150 ease-in-out hover:opacity-70 bg-cover bg-center rounded-2xl shadow-lg">
                         </div>
                     </div>
                 </div>

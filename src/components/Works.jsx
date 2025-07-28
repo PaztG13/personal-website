@@ -14,7 +14,7 @@ const Showreel = () => {
         <div className="max-w-[90%] m-auto my-10 px-20 py-20 bg-gray-950 text-white rounded-4xl shadow-lg">
                 <div className="sr-container max-w-[1280px] m-auto flex justify-between items-center gap-10">
                     <div className="showreel-title flex flex-col gap-5">
-                        <h1 className="text-5xl font-bold">2024 Showreel</h1>
+                        <h1 className="text-5xl font-bold">2025 Showreel</h1>
                         <a href="https://www.youtube.com/watch?v=QhSKr3pVsno" className="px-5 py-2 outline-1 w-[250px] rounded-full flex gap-3 items-center transition duration-150 ease-in-out hover:bg-white hover:outline-0 hover:text-gray-950 hover:justify-between">
                             <span>Watch on YouTube!</span>
                             <span>&#8594;</span>
